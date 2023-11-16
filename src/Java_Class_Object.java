@@ -1,3 +1,18 @@
+/* ---- What is Class ---- *
+* Class is derived datatype, it combines members of different datatypes into one.
+Defines new datatype (primitive ones are not enough).
+For Example : Car, College, Bus etc..
+This new datatype can be used to create objects.
+A class is a template for an object .
+*
+* ---- What is Object ---- *
+* An Object is a key to understand Object Oriented Technology.
+An entity that has state and behavior is known as an object. e.g., Mobile, Car, Door, Laptop etc 
+Each and every object posses
+Identity
+State
+Behavior */
+
 
 // Create Class for Car Details or Info
 class carsDetails{
@@ -16,3 +31,5 @@ public class Java_Class_Object {
         System.out.println("Car Total Quantity : " + obj.cQuantity);
     }
 }
+
+// Created by Bhensadadiya Jeel
