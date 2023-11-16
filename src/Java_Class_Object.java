@@ -8,7 +8,6 @@ class carsDetails{
 
 public class Java_Class_Object {
     public static void main(String[] args) {
-        // Make carsDetails class Object
         // Create object obj instance of carDetails class
         carsDetails obj = new carsDetails();
 
