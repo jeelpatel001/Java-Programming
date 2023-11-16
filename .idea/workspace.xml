@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed959a1c-ad9b-4f7e-b1aa-61f8e43c6b60" name="Changes" comment="Add Detailed Incormation of Class and Object">
-      <change afterPath="$PROJECT_DIR$/src/Java_Class_ex1.java" afterDir="false" />
+    <list default="true" id="ed959a1c-ad9b-4f7e-b1aa-61f8e43c6b60" name="Changes" comment="WAP using class Person to display name and age">
+      <change afterPath="$PROJECT_DIR$/src/Java_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,39 @@
       <option name="project" value="LOCAL" />
       <updated>1700140590843</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="WAP using class Person to display name and age">
+      <option name="closed" value="true" />
+      <created>1700141235247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141235247</updated>
+    </task>
+    <task id="LOCAL-00007" summary="WAP using class Person to display name and age">
+      <option name="closed" value="true" />
+      <created>1700141523070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141523070</updated>
+    </task>
+    <task id="LOCAL-00008" summary="WAP using class Person to display name and age with method.">
+      <option name="closed" value="true" />
+      <created>1700141532535</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141532535</updated>
+    </task>
+    <task id="LOCAL-00009" summary="WAP using class Person to display name and age">
+      <option name="closed" value="true" />
+      <created>1700141581814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141581814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +161,8 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="Create program that demonstrate how to create class and object or how to use object" />
     <MESSAGE value="Add Detailed Incormation of Class and Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Detailed Incormation of Class and Object" />
+    <MESSAGE value="WAP using class Person to display name and age with method." />
+    <MESSAGE value="WAP using class Person to display name and age" />
+    <option name="LAST_COMMIT_MESSAGE" value="WAP using class Person to display name and age" />
   </component>
 </project>
