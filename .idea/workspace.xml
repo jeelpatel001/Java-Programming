@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed959a1c-ad9b-4f7e-b1aa-61f8e43c6b60" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Class_Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed959a1c-ad9b-4f7e-b1aa-61f8e43c6b60" name="Changes" comment="Add Detailed Incormation of Class and Object">
+      <change afterPath="$PROJECT_DIR$/src/Java_Class_ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +87,47 @@
       <option name="project" value="LOCAL" />
       <updated>1700138691221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1700140112662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140112662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create program that demonstrate how to create class and object or how to use object">
+      <option name="closed" value="true" />
+      <created>1700140179155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140179155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create program that demonstrate how to create class and object or how to use object">
+      <option name="closed" value="true" />
+      <created>1700140335131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140335131</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Detailed Incormation of Class and Object">
+      <option name="closed" value="true" />
+      <created>1700140590843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700140590843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="Change Details" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="some changes" />
+    <MESSAGE value="Create program that demonstrate how to create class and object or how to use object" />
+    <MESSAGE value="Add Detailed Incormation of Class and Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Detailed Incormation of Class and Object" />
   </component>
 </project>
