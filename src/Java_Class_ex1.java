@@ -6,8 +6,8 @@ class Person
 }
 public class Java_Class_ex1 {
         public static void main(String[] args) {
-            People p1= new People();
-            People p2= new People();
+            Person p1= new Person();
+            Person p2= new Person();
 
             p1.name="modi";
             p1.age=71;
